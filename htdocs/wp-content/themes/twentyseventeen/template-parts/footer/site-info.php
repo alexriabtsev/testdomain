@@ -19,5 +19,5 @@
 	Email: <a href="mailto:testdomain@mail.to">testdomain@mail.to</a>
 </div>
 <div class="btn_mob	popup">
-	<a href="mailto:testdomain@mail.to">Contact us</a>
+	<a href="#">Contact us</a>
 </div>
